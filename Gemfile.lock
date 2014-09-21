@@ -1,3 +1,10 @@
+GIT
+  remote: git://github.com/rightscale/right_http_connection.git
+  revision: 3359524d81cdfa9509e44959feceac0b52ac6a0c
+  ref: 3359524d81
+  specs:
+    right_http_connection (1.4.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -115,3 +122,4 @@ PLATFORMS
 
 DEPENDENCIES
   github-pages
+  right_http_connection!
