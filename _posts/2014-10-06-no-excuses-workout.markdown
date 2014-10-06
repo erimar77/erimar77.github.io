@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  ""
-date:   2014-09-20 16:15:55
+title:  "No Excuses Workout"
+date:   2014-10-06 16:15:55
 categories:
 ---
 

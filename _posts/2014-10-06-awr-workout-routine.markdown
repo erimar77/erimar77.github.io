@@ -1,24 +1,24 @@
 ---
 layout: post
 title:  "AWR - A Workout Routine"
-date:   2014-09-20 16:15:55
+date:   2014-10-06 16:15:55
 categories: exercise, fitness
 ---
 
 ## Workout A
 
-    Squats
+1. Squats
     3 sets of 8-10 reps.
     2 minutes rest between sets.
-    Bench Press
+2. Bench Press
     3 sets of 8-10 reps.
     2 minutes rest between sets.
-    Rows
+3. Rows
     3 sets of 8-10 reps.
     2 minutes rest between sets.
-    Triceps Press Downs
+4. Triceps Press Downs
     1 set of 10-12 reps.
-    Calf Raises
+5. Calf Raises
     1-2 sets of 10-12 reps.
     1 minute rest between sets.
 
