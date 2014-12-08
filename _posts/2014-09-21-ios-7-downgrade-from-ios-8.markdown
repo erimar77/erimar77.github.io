@@ -8,7 +8,7 @@ categories: ios7, apple, iphone, downgrade
 IPSW file located here:
 http://appldnld.apple.com/iOS7.1/031-4816.20140627.XQbdQ/iPhone4,1_7.1.2_11D257_Restore.ipsw
 
-Restore folows the usual steps:
+Restore follows the usual steps:
 
 1. Disable Find My iPhone
 2. Connect to iTunes
