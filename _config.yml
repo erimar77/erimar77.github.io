@@ -9,7 +9,7 @@ url: http://eric-martin.com
 # Localhost 
 # url: http://127.0.0.1:4000  
 
- Harmony theme configuration. Please change accordingly.
+# Harmony theme configuration. Please change accordingly.
 harmony:
   name: eric-martin.com
   # Little description about your site
