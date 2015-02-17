@@ -2,7 +2,7 @@
 layout: post
 title:  "Force OpenMPI to Utilize a Particular Interface"
 date:   2015-02-16 20:24:00
-categories: openmpi, r, mpi
+categories: 
 ---
 
 Was fighting error messages that looked like this:
