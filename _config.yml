@@ -13,17 +13,17 @@ url: http://eric-martin.com
 harmony:
   name: eric-martin.com
 
-# Little description about your site
-description: nothing to see here, move along.
-meta_description: Harmony is free responsive jekyll theme. This will appear in your document head meta (for Google search results) and in your feed.xml site description.
-basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
-email: gayanvirajith@gmail.com
+  # Little description about your site
+  description: nothing to see here, move along.
+  meta_description: Harmony is free responsive jekyll theme. This will appear in your document head meta (for Google search results) and in your feed.xml site description.
+  basetheme: theme-base-01 # pre defined thmes are darken, blue-water, redish.
+  email: gayanvirajith@gmail.com
 
-# Google Analytics key, leave blank to ignore
+  # Google Analytics key, leave blank to ignore
 google_analytics_key: UA-2806788-1
 
 # Profile links, leave blank to ignore
-social: 
+  social: 
     github: erimar77
     twitter: erimar77
     facebook: erimar77
