@@ -18,5 +18,5 @@ Find me on [Google+][google] / [Github][github] / [Twitter][Twitter] or just say
 [twitter]: https://twitter.com/erimar77
 [ansible]: http://www.ansible.com
 [lmod]: https://www.tacc.utexas.edu/research-development/tacc-projects/lmod
-[beegfs]: http://www.beegfs.com/cms/
-[slurm]: http://slurm.schedmd.com/
+[beegfs]: http://www.beegfs.com/cms
+[slurm]: http://slurm.schedmd.com
