@@ -2,7 +2,7 @@
 layout: post
 title:  "Downgrade to iOS 7.1.2 on iPhone 4S"
 date:   2014-09-21
-categories: ios7, apple, iphone, downgrade
+categories:
 ---
 
 IPSW file located here:
