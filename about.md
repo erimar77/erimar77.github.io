@@ -6,7 +6,7 @@ permalink: /about/
 
 I'm Eric Martin, graduated from Washington University in Saint Louis, School of Engineering with a B.S. in Information Management.
 
-I currently an HPC systems administrator for the High Throughput Computing Facility at the Center for Genome Sciences at Washington University in Saint Louis.  I'm working with [Ansible](ansible), [Lmod](lmod), [BeeGFS](beegfs), and [Slurm Workload Manager](slurm).
+I'm currently an HPC systems administrator for the High Throughput Computing Facility at the Center for Genome Sciences at Washington University in Saint Louis working with [Ansible](ansible), [Lmod](lmod), [BeeGFS](beegfs), and [Slurm Workload Manager](slurm).
 
 ### Contact me
 
